@@ -14,13 +14,9 @@
     "train"
     ],
     "CategoryTags": [
-      "Other"
+      "other"
     ],
     "DalamudApiLevel": 9,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": true,
-    "LoadPriority": 0,
     "IconUrl": "https://i.loli.net/2021/09/25/OA6vDxaSTmfWyU3.png",
     "Punchline": "Add a reset striking dummy enmity command",
     "AcceptsFeedback": true,
@@ -30,7 +26,6 @@
     "DownloadCount": 0,
     "DownloadLinkInstall": "https://github.com/kkk30/MYPlugin/raw/main/latest.zip",
     "DownloadLinkTesting": "https://github.com/kkk30/MYPlugin/raw/main/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/kkk30/MYPlugin/raw/main/latest.zip",
-    "IsThirdParty": "True"
+    "DownloadLinkUpdate": "https://github.com/kkk30/MYPlugin/raw/main/latest.zip"
   }
 ]
