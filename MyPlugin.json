@@ -1,8 +1,8 @@
 [
   {
     "Author": "kkk30",
-    "Name": "Reset enmity command2",
-    "InternalName": "Reset enmity command2",
+    "Name": "Sample Plugin",
+    "InternalName": "SamplePlugin",
     "AssemblyVersion": "0.0.1.1",
     "Description": "Add a reset striking dummy enmity command.",
     "ApplicableVersion": "any",
