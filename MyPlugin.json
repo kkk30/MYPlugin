@@ -7,10 +7,10 @@
     "Description": "Add a reset striking dummy enmity command",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kkk30/Reset-dummy-enmity-command",
-    "Tags": [
-    "striking",
-    "battle",
-    "train"
+      "Tags": [
+      "striking",
+      "battle",
+      "train"
     ],
     "DalamudApiLevel": 9,
     "IconUrl": "https://i.loli.net/2021/09/25/OA6vDxaSTmfWyU3.png",
