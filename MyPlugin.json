@@ -1,22 +1,24 @@
 [
   {
-    "Author": "your name here",
-    "Name": "Sample Plugin",
-    "InternalName": "SamplePlugin",
-    "AssemblyVersion": "0.0.0.1",
-    "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+    "Author": "kkk30",
+    "Name": "Reset enmity command2",
+    "InternalName": "Reset enmity command2",
+    "AssemblyVersion": "0.0.1.1",
+    "Description": "Add a reset striking dummy enmity command.",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/kkk30/Reset-dummy-enmity-command",
     "Tags": [
-      "sample",
-      "plugin",
-      "goats"
+      "striking",
+      "battle",
+      "train"
     ],
     "DalamudApiLevel": 9,
+    "IconUrl": "https://i.loli.net/2021/09/25/OA6vDxaSTmfWyU3.png",
+    "Punchline": "Add a reset striking dummy enmity command."
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "A short one-liner that shows up in /xlplugins.",
     "AcceptsFeedback": true,
     "LastUpdated": 0,
     "DownloadCount": 0,
