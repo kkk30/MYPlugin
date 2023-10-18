@@ -6,15 +6,12 @@
     "AssemblyVersion": "0.0.1.1",
     "Description": "Add a reset striking dummy enmity command",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/kkk30/Reset-dummy-enmity-command",
+    "RepoUrl": "https://github.com/akira0245/Reset-dummy-enmity-command",
     "Tags": [
     "akira",
     "striking",
     "battle",
     "train"
-    ],
-    "CategoryTags": [
-      "other"
     ],
     "DalamudApiLevel": 9,
     "IconUrl": "https://i.loli.net/2021/09/25/OA6vDxaSTmfWyU3.png",
