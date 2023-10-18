@@ -14,7 +14,7 @@
     "train"
     ],
     "CategoryTags": [
-      "UI"
+      "Other"
     ],
     "DalamudApiLevel": 9,
     "LoadRequiredState": 0,
@@ -26,7 +26,7 @@
     "AcceptsFeedback": true,
     "IsHide": "False",
     "IsTestingExclusive": "False",
-    "LastUpdated": 1697599164,
+    "LastUpdated": 0,
     "DownloadCount": 0,
     "DownloadLinkInstall": "https://github.com/kkk30/MYPlugin/raw/main/latest.zip",
     "DownloadLinkTesting": "https://github.com/kkk30/MYPlugin/raw/main/latest.zip",
