@@ -13,7 +13,7 @@
     "battle",
     "train"
     ],
-    "CategoryTags": null
+    "CategoryTags": null,
     "DalamudApiLevel": 9,
     "LoadRequiredState": 0,
     "LoadSync": false,
