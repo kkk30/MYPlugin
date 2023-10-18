@@ -13,7 +13,10 @@
     ],
     "DalamudApiLevel": 9,
     "IconUrl": "https://i.loli.net/2021/09/25/OA6vDxaSTmfWyU3.png",
-    "Punchline": "Add a reset striking dummy enmity command."
+    "Punchline": "Add a reset striking dummy enmity command.",
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
     "LoadPriority": 0,
     "LastUpdated": 0,
     "DownloadCount": 0,
