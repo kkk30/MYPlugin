@@ -1,0 +1,23 @@
+[
+  {
+    "Author": "kkk30",
+    "Name": "Sample Plugin",
+    "InternalName": "SamplePlugin",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Scales up buffs/debuffs applied by you on Target Status frames",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/kkk30/SamplePlugin2",
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Larger personal debuffs",
+    "AcceptsFeedback": true,
+    "LastUpdated": 0,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/kkk30/MYPlugin/raw/main/latest.zip",
+    "DownloadLinkTesting": "https://github.com/kkk30/MYPlugin/raw/main/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/kkk30/MYPlugin/raw/main/latest.zip"
+  }
+]
