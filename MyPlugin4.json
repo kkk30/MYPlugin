@@ -1,0 +1,29 @@
+[
+  {
+    "Author": "akira0245",
+    "Name": "Reset enmity command",
+    "InternalName": "Reset enmity command",
+    "AssemblyVersion": "0.0.1.2",
+    "Description": "Add a reset striking dummy enmity command.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/akira0245/Reset-dummy-enmity-command",
+    "Tags": [
+      "akira",
+      "striking",
+      "battle",
+      "train"
+    ],
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Add a reset striking dummy enmity command."
+    "AcceptsFeedback": true,
+    "LastUpdated": 0,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/kkk30/MYPlugin/raw/main/latest.zip",
+    "DownloadLinkTesting": "https://github.com/kkk30/MYPlugin/raw/main/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/kkk30/MYPlugin/raw/main/latest.zip"
+  }
+]
