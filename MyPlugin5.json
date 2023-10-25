@@ -1,0 +1,23 @@
+[
+  {
+  "Author": "ascclemens",
+  "Name": "Macrology",
+  "InternalName": "Macrology",
+  "AssemblyVersion": "1.0.0",
+  "Description": "Adds a better macro system to the game.\n\nMacrology allows for macros of infinite length, adds looping,\nallows comments, supports pausing, allows you to run multiple\nmacros at once, and supports fractional waits.",
+  "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/kkk30/Macrology",
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Adds a better macro system to the game.",
+    "AcceptsFeedback": true,
+    "LastUpdated": 0,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/kkk30/MYPlugin/raw/main/latest.zip",
+    "DownloadLinkTesting": "https://github.com/kkk30/MYPlugin/raw/main/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/kkk30/MYPlugin/raw/main/latest.zip"
+  }
+]
