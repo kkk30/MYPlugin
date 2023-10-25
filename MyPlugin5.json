@@ -3,7 +3,7 @@
   "Author": "ascclemens",
   "Name": "Macrology",
   "InternalName": "Macrology",
-  "AssemblyVersion": "1.0.0",
+  "AssemblyVersion": "1.0.0.0",
   "Description": "Adds a better macro system to the game.\n\nMacrology allows for macros of infinite length, adds looping,\nallows comments, supports pausing, allows you to run multiple\nmacros at once, and supports fractional waits.",
   "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/kkk30/Macrology",
