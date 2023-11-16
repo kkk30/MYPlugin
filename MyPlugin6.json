@@ -1,0 +1,22 @@
+[
+  {
+    "Author": "kkk30",
+    "Name": "Macrology",
+    "InternalName": "Macrology",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "A short one-liner that shows up in /xlplugins.",
+    "AcceptsFeedback": true,
+    "LastUpdated": 0,
+    "DownloadCount": 0,
+    "DownloadLinkInstall": "https://github.com/kkk30/MYPlugin/raw/main/latest.zip",
+    "DownloadLinkTesting": "https://github.com/kkk30/MYPlugin/raw/main/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/kkk30/MYPlugin/raw/main/latest.zip"
+  }
+]
